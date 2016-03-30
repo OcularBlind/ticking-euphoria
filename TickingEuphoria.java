@@ -1,9 +1,3 @@
-//IDEAS NOT YET IPLIMENTED
-// TOWNS SHOPS AND INNS AND THE LIKE
-// HOUSE STORAGE MAYBE TROPHIES FROM ADVENTURES
-// END OF GAME??????????
-// DIE OF OLD AGE?
-// death at 40 years
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 public class TickingEuphoria {
